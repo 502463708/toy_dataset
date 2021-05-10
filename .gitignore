@@ -1,0 +1,7 @@
+images_*
+masks_*
+test*
+*.pyc
+annotations
+.idea
+__pychace*
